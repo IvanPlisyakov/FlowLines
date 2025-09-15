@@ -6,7 +6,7 @@ You can adjust colors, wire thickness, and pin size using presets or custom valu
 ## Installation
 
 1. Extract the `FlowLines` folder into your project:
-2. Open Unreal Engine (version 5.0 – 5.6, Win64).
+2. Open Unreal Engine (version 5.1 – 5.6, Win64).
 3. Go to **Edit → Plugins**, search for **FlowLines**, and enable it.
 4. Restart the Editor if prompted.
 
@@ -27,4 +27,5 @@ You can adjust colors, wire thickness, and pin size using presets or custom valu
 
 1. Open any Blueprint with multiple Exec connections (e.g., Sequence, Branch).
 2. Change the preset to **High Contrast** in Editor Preferences.
+
 3. The changes will apply immediately to all Blueprint Exec pins and wires.
